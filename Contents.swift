@@ -3,24 +3,6 @@ import SwiftUI
 import UIKit
 import PlaygroundSupport
 
-/*
- 
- # WWDC 2020 Swfit Student Challenge Submission - Tapaswini Kodavanti
- 
- Hello!
- 
-    My name is Tapaswini Kodavanti and this is my submission for the Swift Student Challenge.
-    I have created a game based on anagrams, a word-puzzle that tests your problem-solving skills
-    and thought organization. I enjoy both programming and working on any sort of puzzle,
-    so this project combines two of my favorite activies.
- 
-    I hope you enjoy playing my Playground, and perhaps learning something from it :)
- 
- Thank you,
- Tapaswini K
-
-*/
-
 var score = 0
 var highScore = 0
 
